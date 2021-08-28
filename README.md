@@ -2,7 +2,7 @@
 
 > A dark theme for [Krita](https://krita.org).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./a0qVUW7.png)
 
 ## Install
 
