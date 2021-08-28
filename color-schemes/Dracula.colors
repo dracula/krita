@@ -1,0 +1,28 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor = true
+
+
+[Colors:Button]
+BackgroundNormal     = 68,71,90
+ForegroundNormal     = 255,255,255
+
+
+[Colors:Selection]
+BackgroundNormal     = 189,147,249
+ForegroundNormal     = 0
+
+
+[Colors:View]
+BackgroundAlternate  = 40,42,54
+BackgroundNormal     = 64,63,66
+ForegroundLink       = 189,147,249
+ForegroundNormal     = 255,255,255
+
+
+[Colors:Window]
+BackgroundNormal     = 54,57,72
+ForegroundNormal     = 255,255,255
+
+
+[General]
+Name                 = Dracula
