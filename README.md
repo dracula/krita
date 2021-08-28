@@ -1,20 +1,19 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Krita](https://krita.org)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Krita](https://krita.org).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/krita](https://draculatheme.com/krita).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
-
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Kacper Smoliński](https://github.com/kacperleague9.png?size=100)](https://github.com/kacperleague9) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Kacper Smoliński](https://github.com/kacperleague9) |
 
 ## License
 
